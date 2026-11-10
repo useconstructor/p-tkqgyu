@@ -1,0 +1,945 @@
+{
+  "primaryColor": "#365C2A",
+  "secondaryColor": "#FFFFFF",
+  "backgroundColor": "#F7F8F4",
+  "textColor": "#20291F",
+  "accentColor": "#365C2A",
+  "fontHeading": "IBM Plex Sans",
+  "fontBody": "IBM Plex Sans",
+  "borderRadius": "0.25rem",
+  "logoText": "Porciones",
+  "logoImageUrl": null,
+  "tone": "minimal",
+  "brandbook": {
+    "version": 1,
+    "origin": "proposed",
+    "researchStatus": "not_requested",
+    "tokenSemanticsVersion": 1,
+    "positioning": "App ficticia de ejemplo de Esteban para ajustar una única receta doméstica con cantidades claras, respuesta inmediata y preferencias guardadas solo en el navegador. Una herramienta cotidiana, no una marca comercial de alimentación.",
+    "voice": "Español breve, sobrio y práctico. Etiquetas directas, cantidades legibles y errores concretos con recuperación visible. Sin promesas comerciales, tecnicismos innecesarios ni celebraciones de guardado.",
+    "motif": "Dos medidas proporcionales y una marca lateral de resultado. La proporción pertenece al símbolo y la marca agrupa las tres cantidades de la ficha; no se extiende a ornamentos, patrones de fondo ni ilustraciones.",
+    "sources": [
+      "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+    ],
+    "colors": [
+      {
+        "role": "background",
+        "name": "Quiet Paper",
+        "hex": "#F7F8F4"
+      },
+      {
+        "role": "surface",
+        "name": "Clear Sheet",
+        "hex": "#FFFFFF"
+      },
+      {
+        "role": "accent",
+        "name": "Measured Green",
+        "hex": "#365C2A"
+      },
+      {
+        "role": "text",
+        "name": "Deep Olive",
+        "hex": "#20291F"
+      },
+      {
+        "role": "muted",
+        "name": "Sage Edge",
+        "hex": "#778373"
+      }
+    ],
+    "fontFaces": [
+      {
+        "family": "IBM Plex Sans",
+        "weight": "400",
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-TKQGYU/brand/fonts/6dbe082463cf749cfa057d45c3048c90f4df031496498e5b5bdfd0b6babb9d16.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ],
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD6llzAA.ttf",
+        "sha256": "6dbe082463cf749cfa057d45c3048c90f4df031496498e5b5bdfd0b6babb9d16"
+      },
+      {
+        "family": "IBM Plex Sans",
+        "weight": "500",
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-TKQGYU/brand/fonts/6f7a8c4219e021ff7c9131bc5f1f7af97bcd1436a59578d444a8cb92e9791742.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ],
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD2FlzAA.ttf",
+        "sha256": "6f7a8c4219e021ff7c9131bc5f1f7af97bcd1436a59578d444a8cb92e9791742"
+      },
+      {
+        "family": "IBM Plex Sans",
+        "weight": "600",
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-TKQGYU/brand/fonts/5311c66fd6d04ae45671236f7eae667b671c06c1dc7e88d52c206e5fadd0fb21.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ],
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDNF5zAA.ttf",
+        "sha256": "5311c66fd6d04ae45671236f7eae667b671c06c1dc7e88d52c206e5fadd0fb21"
+      },
+      {
+        "family": "IBM Plex Sans",
+        "weight": "700",
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-TKQGYU/brand/fonts/e129a20e8ff7c907ffd07124b573e88c323b7b18afc934d4aa539a3e0f2fe100.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ],
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDDV5zAA.ttf",
+        "sha256": "e129a20e8ff7c907ffd07124b573e88c323b7b18afc934d4aa539a3e0f2fe100"
+      }
+    ],
+    "markSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 160\"><path fill=\"#365C2A\" d=\"M24 80H32V120H56V80H64V128H24Z M88 32H96V120H120V32H128V128H88Z\"/></svg>",
+    "pages": [
+      {
+        "title": "Brand guidelines",
+        "summary": "App ficticia de ejemplo de Esteban para ajustar una única receta doméstica con cantidades claras, respuesta inmediata y preferencias guardadas solo en el navegador.",
+        "examples": [
+          {
+            "title": "Porciones",
+            "text": "Brand guidelines"
+          },
+          {
+            "title": "App ficticia de ejemplo de Esteban",
+            "text": "Ajusta la receta a tu mesa."
+          }
+        ],
+        "id": "brand-page-1",
+        "layout": "cover"
+      },
+      {
+        "title": "The Brand",
+        "summary": "Use this divider to introduce a practical tool, not a food retailer. One headline and one short statement are enough; avoid promotional badges or lifestyle claims.",
+        "examples": [
+          {
+            "title": "Porciones",
+            "text": "Una receta. Las cantidades para tu mesa."
+          }
+        ],
+        "id": "brand-page-2",
+        "layout": "divider"
+      },
+      {
+        "title": "Welcome",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "title": "A focused identity",
+            "text": "Keep the name Porciones unchanged. Pair a proportional symbol with clear Spanish interface copy."
+          },
+          {
+            "title": "Project scope",
+            "text": "App ficticia de ejemplo de Esteban. Two planned pages: Inicio and Calculadora; preferences belong only to this browser."
+          }
+        ],
+        "id": "brand-page-3",
+        "layout": "content"
+      },
+      {
+        "title": "Index",
+        "summary": "Organize the guide from identity to use. Keep section labels short and page ranges aligned so readers can find rules without decorative navigation.",
+        "examples": [
+          {
+            "title": "Foundation · 01–15",
+            "text": "Introduction, purpose, voice and logo."
+          },
+          {
+            "title": "Visual system · 16–29",
+            "text": "Typography, layout, color, graphics and imagery."
+          },
+          {
+            "title": "Applications · 30–49",
+            "text": "Digital and physical design studies, support and colophon."
+          }
+        ],
+        "id": "brand-page-4",
+        "layout": "content"
+      },
+      {
+        "title": "Defining",
+        "summary": "Describe Porciones through its exact task: scaling one taco recipe from 1 to 20 people. Never imply a recipe catalog, nutrition service or shopping platform.",
+        "examples": [
+          {
+            "title": "Ajusta la receta a tu mesa",
+            "text": "Elige cuántas personas sois y consulta las cantidades de tortillas, carne y cebolla."
+          },
+          {
+            "title": "Scope in one line",
+            "text": "Una calculadora para ajustar una receta de tacos."
+          }
+        ],
+        "id": "brand-page-5",
+        "layout": "content"
+      },
+      {
+        "title": "Vision & Mission",
+        "summary": "Use the supplied task as a project purpose, not an invented corporate mission. State what users can adjust and what the interface should make clear.",
+        "examples": [
+          {
+            "title": "Project purpose",
+            "text": "Make the relationship between people and ingredient quantities easy to read."
+          },
+          {
+            "title": "Elige personas y unidades",
+            "text": "Ajusta entre 1 y 20 personas. Consulta carne y cebolla en gramos o kilogramos."
+          }
+        ],
+        "id": "brand-page-6",
+        "layout": "content"
+      },
+      {
+        "title": "Brand Values",
+        "summary": "Treat clarity, restraint and honest feedback as design criteria, not corporate claims. Each criterion must produce a visible interface choice.",
+        "examples": [
+          {
+            "title": "Clarity",
+            "text": "Show “400 gramos de carne” rather than an unexplained “400”."
+          },
+          {
+            "title": "Restraint",
+            "text": "Keep one Tacos sheet, three ingredient rows and the controls needed to adjust them."
+          },
+          {
+            "title": "Honest feedback",
+            "text": "Use “Preferencias guardadas en este navegador” only after a successful local write."
+          }
+        ],
+        "id": "brand-page-7",
+        "layout": "content"
+      },
+      {
+        "title": "Tone of Voice",
+        "summary": "Write interface copy in concise Spanish. Name the action or problem directly, then offer recovery. Avoid praise, sales language and technical explanations.",
+        "examples": [
+          {
+            "title": "Action",
+            "text": "Abrir calculadora"
+          },
+          {
+            "title": "Correction",
+            "text": "Introduce un número entero, sin decimales"
+          },
+          {
+            "title": "Recovery",
+            "text": "Corrige Personas o pulsa Restablecer."
+          }
+        ],
+        "id": "brand-page-8",
+        "layout": "content"
+      },
+      {
+        "title": "Logo",
+        "summary": "Introduce the identity with one lockup on white. The symbol expresses proportion; the separately typeset name provides recognition. Do not add a slogan inside the logo.",
+        "examples": [
+          {
+            "title": "Porciones",
+            "text": "Use the two open measures to the left of the name, with no enclosing badge."
+          }
+        ],
+        "id": "brand-page-9",
+        "layout": "divider"
+      },
+      {
+        "title": "Logo overview",
+        "summary": "The symbol contains two open measures with equal wall thickness and a shared baseline. Their outer heights are 48 and 96 units, making the ratio visibly 1:2.",
+        "examples": [
+          {
+            "title": "Proportional construction",
+            "text": "Both measures are 40 units wide with 8-unit walls. Keep the supplied 160 × 160 viewBox unchanged."
+          },
+          {
+            "title": "Header identification",
+            "text": "Pair the symbol with Porciones; place “App ficticia de ejemplo de Esteban” outside the lockup."
+          }
+        ],
+        "id": "brand-page-10",
+        "layout": "logo"
+      },
+      {
+        "title": "Primary logo",
+        "summary": "Set Porciones in IBM Plex Sans 600, mixed case and natural tracking. Use a 32 px symbol canvas, an 8 px gap and a 20 px name in the compact header.",
+        "examples": [
+          {
+            "title": "Light header",
+            "text": "Measured Green symbol, Deep Olive name and Quiet Paper background."
+          },
+          {
+            "title": "Dark presentation",
+            "text": "Keep the green symbol on a Quiet Paper support square; set Porciones in white beside it."
+          }
+        ],
+        "id": "brand-page-11",
+        "layout": "logo"
+      },
+      {
+        "title": "Logo Safezone",
+        "summary": "Reserve clear space equal to one quarter of the symbol canvas around the complete lockup. Measure from visible letter edges and the symbol canvas, not a surrounding card.",
+        "examples": [
+          {
+            "title": "Compact header",
+            "text": "A 32 px symbol requires at least 8 px clear space around the combined symbol and name."
+          },
+          {
+            "title": "Presentation sheet",
+            "text": "An 80 px symbol requires at least 20 px clear space. Keep captions beyond that boundary."
+          }
+        ],
+        "id": "brand-page-12",
+        "layout": "logo"
+      },
+      {
+        "title": "Color combinations",
+        "summary": "Keep the symbol Measured Green #365C2A. On green or dark fields, add a Quiet Paper support surface rather than recoloring, outlining or dropping parts of the mark.",
+        "examples": [
+          {
+            "title": "White study",
+            "text": "#365C2A symbol and #20291F name on #FFFFFF."
+          },
+          {
+            "title": "Green divider",
+            "text": "#FFFFFF name on #365C2A; the complete green symbol sits on #F7F8F4."
+          },
+          {
+            "title": "Deep Olive cover",
+            "text": "#FFFFFF name on #20291F; retain the same light support behind the symbol."
+          }
+        ],
+        "id": "brand-page-13",
+        "layout": "colors"
+      },
+      {
+        "title": "Brandmark",
+        "summary": "Use the symbol alone only where the surrounding context identifies Porciones. Reuse the exact geometry for icons; never replace the measures with a letter P or cooking illustration.",
+        "examples": [
+          {
+            "title": "Browser icon",
+            "text": "Center the two green measures on Quiet Paper and preserve the original canvas proportions."
+          },
+          {
+            "title": "Small display",
+            "text": "At 16 px, retain both open tops and their common baseline. Do not add ticks or labels."
+          }
+        ],
+        "id": "brand-page-14",
+        "layout": "logo"
+      },
+      {
+        "title": "Logo misuse",
+        "summary": "Do not stretch, rotate, round or decorate the measures. Preserve their 1:2 height relationship and keep the name in real typography rather than embedding it in the SVG.",
+        "examples": [
+          {
+            "title": "Avoid equal heights",
+            "text": "Making both measures the same height removes the proportional idea that identifies Porciones."
+          },
+          {
+            "title": "Avoid culinary decoration",
+            "text": "Do not add tacos, leaves, steam or utensil silhouettes to the symbol."
+          },
+          {
+            "title": "Avoid invented lettering",
+            "text": "Use “Porciones”, not “PORCIONES”, a script signature or a custom outlined wordmark."
+          }
+        ],
+        "id": "brand-page-15",
+        "layout": "logo"
+      },
+      {
+        "title": "Typography",
+        "summary": "Let typography carry the interface. Use IBM Plex Sans throughout, with clear size changes and ample separation instead of decorative display lettering.",
+        "examples": [
+          {
+            "title": "Ajusta la receta a tu mesa",
+            "text": "Elige las personas y consulta las cantidades."
+          }
+        ],
+        "id": "brand-page-16",
+        "layout": "divider"
+      },
+      {
+        "title": "Typography overview",
+        "summary": "Use one family for headings, controls, messages and quantities. Left-align text and preserve Spanish accents. Enable tabular figures for stable ingredient columns.",
+        "examples": [
+          {
+            "title": "Tacos · 4 personas",
+            "text": "8 tortillas · 400 gramos de carne · 100 gramos de cebolla"
+          },
+          {
+            "title": "Stable quantities",
+            "text": "Keep number columns aligned when 400 changes to 2000; do not animate digits or center each row independently."
+          }
+        ],
+        "id": "brand-page-17",
+        "layout": "type"
+      },
+      {
+        "title": "Primary typeface",
+        "summary": "IBM Plex Sans is the specified family; supplied real font files include 400, 500, 600 and 700. Use 400–600 in the app. A system sans fallback is temporary, not the brand typeface.",
+        "examples": [
+          {
+            "title": "Calculadora",
+            "text": "Ajusta las cantidades de la receta de tacos."
+          },
+          {
+            "title": "Family consistency",
+            "text": "Use IBM Plex Sans for the Porciones name, Personas input, unit options and local-storage messages."
+          }
+        ],
+        "id": "brand-page-18",
+        "layout": "type"
+      },
+      {
+        "title": "Typography styles",
+        "summary": "Use 400 for body copy and inputs, 500 for labels and buttons, and 600 for the name and UI headings. Reserve 700 for manual headings if needed; avoid italic status messages.",
+        "examples": [
+          {
+            "title": "Personas",
+            "text": "Introduce un número entero entre 1 y 20."
+          },
+          {
+            "title": "Weight specimen",
+            "text": "Porciones: 600. Calculadora: 600. Restablecer: 500. Ingredient quantities and explanations: 400."
+          },
+          {
+            "title": "Style restraint",
+            "text": "Keep “Último cálculo válido: 4 personas” upright and readable, not italic or all caps."
+          }
+        ],
+        "id": "brand-page-19",
+        "layout": "type"
+      },
+      {
+        "title": "Supporting type",
+        "summary": "Supporting text stays in IBM Plex Sans at 14 px with comfortable line spacing. Use Deep Olive for small copy; Sage Edge is a border token, not a small-text color.",
+        "examples": [
+          {
+            "title": "App ficticia de ejemplo de Esteban",
+            "text": "Una calculadora doméstica para ajustar una receta de tacos."
+          },
+          {
+            "title": "Secondary does not mean faint",
+            "text": "Show “Preferencias recuperadas de este navegador” at 14 px in #20291F, without lowering opacity."
+          }
+        ],
+        "id": "brand-page-20",
+        "layout": "type"
+      },
+      {
+        "title": "Hierarchy",
+        "summary": "Set page titles at 32–40 px on desktop and 28 px on mobile. Use 16 px body text and inputs, 14 px buttons and secondary text. Keep one clear page title.",
+        "examples": [
+          {
+            "title": "Ajusta la receta a tu mesa",
+            "text": "Elige las personas y cambia entre gramos y kilogramos."
+          },
+          {
+            "title": "Sheet hierarchy",
+            "text": "Page title first, then “Tacos”, then “Personas” and the unit group. Quantities remain prominent without becoming extra headings."
+          }
+        ],
+        "id": "brand-page-21",
+        "layout": "type"
+      },
+      {
+        "title": "Layouts",
+        "summary": "Build one aligned recipe sheet using 8, 12, 16, 24 and 32 px spacing. At 768 px, stack controls above results. Use 4 px corners and borders rather than floating card effects.",
+        "examples": [
+          {
+            "title": "Tacos",
+            "text": "Personas · Unidad para carne y cebolla · Cantidades"
+          },
+          {
+            "title": "Desktop composition",
+            "text": "Connect left-hand controls to right-hand results. Keep status and Restablecer on the sheet’s lower edge."
+          },
+          {
+            "title": "390 × 600 composition",
+            "text": "Use a 56 px header and compact vertical rhythm. Fit the valid flow without fixed-height clipping; let errors extend the document."
+          }
+        ],
+        "id": "brand-page-22",
+        "layout": "applications"
+      },
+      {
+        "title": "Colors",
+        "summary": "Use Measured Green for this divider and white for its short title. Across the interface, light surfaces dominate; green identifies action and focus rather than decoration.",
+        "examples": [
+          {
+            "title": "Porciones",
+            "text": "Clear quantities. Quiet surfaces. One measured accent."
+          }
+        ],
+        "id": "brand-page-23",
+        "layout": "divider"
+      },
+      {
+        "title": "Colors overview",
+        "summary": "Preserve all supplied hex values. Assign each color a fixed role; add #A12622 only for errors. Color must reinforce labels and states, never replace their meaning.",
+        "examples": [
+          {
+            "title": "Foundation",
+            "text": "Quiet Paper #F7F8F4: page. Clear Sheet #FFFFFF: recipe surface. Deep Olive #20291F: headings, body and quantities."
+          },
+          {
+            "title": "Interaction",
+            "text": "Measured Green #365C2A: primary action and focus. Sage Edge #778373: borders, not small text. Keep editable boundaries at least 3:1."
+          },
+          {
+            "title": "Correction",
+            "text": "Error #A12622: invalid field border and message. Pair it with “El mínimo es 1 persona”, not color alone."
+          }
+        ],
+        "id": "brand-page-24",
+        "layout": "colors"
+      },
+      {
+        "title": "Using Tints",
+        "summary": "Keep text, focus and control boundaries solid. Reserve opacity changes for the lateral result marker. Do not create pastel status colors or fade text to suggest hierarchy.",
+        "examples": [
+          {
+            "title": "Result marker",
+            "text": "After a valid adjustment, reveal #365C2A through opacity over 160 ms while the quantities update immediately."
+          },
+          {
+            "title": "Disabled control",
+            "text": "At 1 person, disable the minus action clearly; keep its shape and focus-independent meaning recognizable."
+          }
+        ],
+        "id": "brand-page-25",
+        "layout": "colors"
+      },
+      {
+        "title": "Graphic Elements",
+        "summary": "Limit the graphic vocabulary to the proportional symbol and one lateral marker beside the three result rows. Reserve marker space so valid updates never shift the sheet.",
+        "examples": [
+          {
+            "title": "Three rows, one marker",
+            "text": "Group “8 tortillas”, “400 gramos de carne” and “100 gramos de cebolla” with a single vertical green accent."
+          },
+          {
+            "title": "Motion restraint",
+            "text": "Use a 160 ms opacity transition only after valid changes. Reduced motion shows the final state directly; invalid edits do not reactivate it."
+          }
+        ],
+        "id": "brand-page-26",
+        "layout": "divider"
+      },
+      {
+        "title": "Icons",
+        "summary": "Use simple functional icons only where they clarify a control. Match visual weight to the UI, preserve 44 px targets and keep visible labels for recovery actions.",
+        "examples": [
+          {
+            "title": "Restablecer",
+            "text": "Vuelve a 4 personas y gramos."
+          },
+          {
+            "title": "Stepper names",
+            "text": "Give minus and plus the accessible names “Restar una persona” and “Sumar una persona”."
+          },
+          {
+            "title": "Icon restraint",
+            "text": "Do not add ingredient emoji or utensil icons. The three ingredient names already identify the results."
+          }
+        ],
+        "id": "brand-page-27",
+        "layout": "content"
+      },
+      {
+        "title": "Photography",
+        "summary": "Do not use photography in this identity. The recipe sheet is the product showcase; images would compete with the quantities and the compact mobile flow.",
+        "examples": [
+          {
+            "title": "Inicio showcase",
+            "text": "Present “Tacos · 4 personas” with its three quantities instead of a taco photograph."
+          },
+          {
+            "title": "Presentation material",
+            "text": "Use a clean crop of the designed recipe sheet on Quiet Paper, not a kitchen scene or stock-food backdrop."
+          }
+        ],
+        "id": "brand-page-28",
+        "layout": "applications"
+      },
+      {
+        "title": "Moodboard",
+        "summary": "Build the visual reference from proportion sheets, tabular numbers and quiet surfaces. Reject illustrated notebooks, radial scales and commercial food-page conventions.",
+        "examples": [
+          {
+            "title": "Chosen direction",
+            "text": "A white Tacos sheet, olive text, thin sage borders and a green adjustment marker."
+          },
+          {
+            "title": "Excluded direction",
+            "text": "No illustrated ingredients, circular serving dial, promotional hero or repeated feature cards."
+          }
+        ],
+        "id": "brand-page-29",
+        "layout": "applications"
+      },
+      {
+        "title": "Applications",
+        "summary": "Design studies translate the same sheet, alignment and voice across formats. They do not add app routes, products or services. Keep Porciones recognizable through structure, not decoration.",
+        "examples": [
+          {
+            "title": "Porciones",
+            "text": "Ajusta la receta a tu mesa."
+          },
+          {
+            "title": "Shared composition",
+            "text": "Use a compact lockup, one task-led headline and a three-row quantity block. Avoid adding promotional sections to fill space."
+          }
+        ],
+        "id": "brand-page-30",
+        "layout": "divider"
+      },
+      {
+        "title": "Social media icons",
+        "summary": "Design study: use the standalone green symbol on Quiet Paper for an avatar. Preserve the full geometry inside circular crops; do not imply an existing account.",
+        "examples": [
+          {
+            "title": "Porciones",
+            "text": "App ficticia de ejemplo de Esteban."
+          },
+          {
+            "title": "Avatar crop",
+            "text": "Center the 160 × 160 symbol canvas within the avatar and retain a light support field. Do not add initials or miniature text."
+          }
+        ],
+        "id": "brand-page-31",
+        "layout": "logo"
+      },
+      {
+        "title": "Social media profiles",
+        "summary": "Design study: a profile uses the exact name and a factual one-line description. Omit invented handles, follower counts, contact details and membership claims.",
+        "examples": [
+          {
+            "title": "Porciones",
+            "text": "App ficticia de ejemplo de Esteban para ajustar una receta de tacos entre 1 y 20 personas."
+          },
+          {
+            "title": "Profile hierarchy",
+            "text": "Place the symbol above or beside the name. Keep the description left-aligned; do not add a sales banner."
+          }
+        ],
+        "id": "brand-page-32",
+        "layout": "applications"
+      },
+      {
+        "title": "Instagram posts",
+        "summary": "Design study: explain one proportional change per post. Use a white recipe sheet on Quiet Paper, large tabular quantities and a short Spanish caption.",
+        "examples": [
+          {
+            "title": "Tacos para 1 persona",
+            "text": "2 tortillas · 100 gramos de carne · 25 gramos de cebolla"
+          },
+          {
+            "title": "La misma receta para 20 personas",
+            "text": "40 tortillas · 2000 gramos de carne · 500 gramos de cebolla"
+          },
+          {
+            "title": "Post composition",
+            "text": "Keep the Porciones lockup small above the sheet. Avoid hashtags or calls to buy inside the artwork."
+          }
+        ],
+        "id": "brand-page-33",
+        "layout": "applications"
+      },
+      {
+        "title": "Posters",
+        "summary": "Design study: make the task the headline and the four-person recipe the evidence. Use one aligned text column; avoid invented venues, dates, URLs or QR destinations.",
+        "examples": [
+          {
+            "title": "Ajusta la receta a tu mesa",
+            "text": "Tacos para 4 personas: 8 tortillas, 400 gramos de carne y 100 gramos de cebolla."
+          },
+          {
+            "title": "Poster hierarchy",
+            "text": "Set the headline largest, quantities second and “App ficticia de ejemplo de Esteban” as a discreet footer."
+          }
+        ],
+        "id": "brand-page-34",
+        "layout": "applications"
+      },
+      {
+        "title": "T shirts and totes",
+        "summary": "Design study: use a small lockup on a plain light textile. Keep the mark flat and proportional; do not introduce a merchandise range, price or purchase call to action.",
+        "examples": [
+          {
+            "title": "Porciones",
+            "text": "Ajusta la receta a tu mesa."
+          },
+          {
+            "title": "Print placement",
+            "text": "Use Measured Green for the symbol and Deep Olive for the name on a light panel. Keep surrounding space greater than the logo safezone."
+          }
+        ],
+        "id": "brand-page-35",
+        "layout": "applications"
+      },
+      {
+        "title": "Recipe sheet sleeve",
+        "summary": "Design study: adapt packaging to a sleeve for a printed recipe reference, not takeaway food. Place the name on the front and keep recipe information on the enclosed sheet.",
+        "examples": [
+          {
+            "title": "Tacos · 4 personas",
+            "text": "8 tortillas · 400 gramos de carne · 100 gramos de cebolla"
+          },
+          {
+            "title": "Sleeve composition",
+            "text": "Use a white sleeve with a small green symbol and Deep Olive title. No food-safety seals, delivery labels or product claims."
+          }
+        ],
+        "id": "brand-page-36",
+        "layout": "applications"
+      },
+      {
+        "title": "Calculator entry point",
+        "summary": "Design study: the entry point is the lower edge of the Inicio recipe sheet, not a physical pickup location. Keep its action visually attached to the example it opens.",
+        "examples": [
+          {
+            "title": "Abrir calculadora",
+            "text": "Elige las personas y consulta las cantidades en gramos o kilogramos."
+          },
+          {
+            "title": "Navigation meaning",
+            "text": "The action leads to /calculadora. Inicio remains a static four-person example and does not replace saved preferences."
+          }
+        ],
+        "id": "brand-page-37",
+        "layout": "applications"
+      },
+      {
+        "title": "Portion controls",
+        "summary": "Design study: place Personas before the unit radios. Use visible labels, 44 px targets and green focus rings. Invalid input keeps its literal text and blocks steppers and unit changes.",
+        "examples": [
+          {
+            "title": "Unidad para carne y cebolla",
+            "text": "Gramos · Kilogramos"
+          },
+          {
+            "title": "Range and validation",
+            "text": "Use “Introduce el número de personas” for empty input and “El máximo es 20 personas” above the limit. Keep Restablecer available."
+          },
+          {
+            "title": "Keyboard behavior",
+            "text": "Tab reaches each action; arrow keys change unit radios. Disable minus at 1 and plus at 20 without changing the control layout."
+          }
+        ],
+        "id": "brand-page-38",
+        "layout": "applications"
+      },
+      {
+        "title": "Quantity summary",
+        "summary": "Design study: replace receipt conventions with three live ingredient rows. Show quantities and units, never totals, order numbers or confirmation of a transaction.",
+        "examples": [
+          {
+            "title": "Tacos · 1 persona",
+            "text": "2 tortillas · 0,1 kilogramos de carne · 0,025 kilogramos de cebolla"
+          },
+          {
+            "title": "Tacos · 20 personas",
+            "text": "40 tortillas · 2 kilogramos de carne · 0,5 kilogramos de cebolla"
+          },
+          {
+            "title": "Retained result",
+            "text": "On invalid input, label the unchanged quantities “Último cálculo válido: 4 personas”. Retain their previous unit and do not animate them."
+          }
+        ],
+        "id": "brand-page-39",
+        "layout": "applications"
+      },
+      {
+        "title": "Preference reminder",
+        "summary": "Design study: replace rewards language with a quiet browser-preference note inside the existing sheet. Distinguish recovery from saving; imply no account, membership or cloud storage.",
+        "examples": [
+          {
+            "title": "Preferencias recuperadas de este navegador",
+            "text": "Puedes seguir ajustando las personas y la unidad."
+          },
+          {
+            "title": "Preferencias guardadas en este navegador",
+            "text": "Se conservarán al recargar mientras este navegador permita el almacenamiento local."
+          },
+          {
+            "title": "State placement",
+            "text": "Keep the note beside recovery actions at the sheet’s lower edge. Initial defaults and recovered values must not be presented as a new save."
+          }
+        ],
+        "id": "brand-page-40",
+        "layout": "applications"
+      },
+      {
+        "title": "Demo display sign",
+        "summary": "Design study: adapt signage to a project demonstration, not a restaurant. Lead with Porciones and a short task description; omit addresses, opening hours and service claims.",
+        "examples": [
+          {
+            "title": "Porciones",
+            "text": "Calculadora de cantidades para una receta de tacos."
+          },
+          {
+            "title": "Display treatment",
+            "text": "Use white lettering on Deep Olive. Keep the green symbol on its Quiet Paper support and place the fictional-project credit below."
+          }
+        ],
+        "id": "brand-page-41",
+        "layout": "applications"
+      },
+      {
+        "title": "Recipe website",
+        "summary": "Design study: use exactly / and /calculadora. Keep Inicio and Calculadora visible in the shared header, including on mobile. No login, payments, email forms, database or extra sections.",
+        "examples": [
+          {
+            "title": "Ajusta la receta a tu mesa",
+            "text": "Elige el número de personas y cambia entre gramos y kilogramos para consultar las cantidades."
+          },
+          {
+            "title": "Inicio · Calculadora",
+            "text": "Indicate the current page without hiding either link. Preserve native navigation and history; do not redirect Inicio automatically."
+          },
+          {
+            "title": "Quiet interface",
+            "text": "Adapt shadcn/ui controls to the single sheet. Configured Constructor Analytics and Views add no promotional panels or preference-sharing copy."
+          }
+        ],
+        "id": "brand-page-42",
+        "layout": "applications"
+      },
+      {
+        "title": "Favicon",
+        "summary": "Design study: derive the browser and application icons from the exact supplied symbol geometry. Use a Quiet Paper background so both green measures remain visible in light and dark chrome.",
+        "examples": [
+          {
+            "title": "Porciones",
+            "text": "Calculadora de recetas."
+          },
+          {
+            "title": "Small-scale identity",
+            "text": "Use the same two open measures in app/icon.svg and other icon sizes. Do not replace them with a template icon, letter or filled cup."
+          }
+        ],
+        "id": "brand-page-43",
+        "layout": "logo"
+      },
+      {
+        "title": "Stationery",
+        "summary": "Design study: treat stationery as a project note sheet. Align the lockup, title and body to one left edge; leave the lower area open rather than inventing contact details.",
+        "examples": [
+          {
+            "title": "Porciones · Nota de receta",
+            "text": "Tacos para 4 personas: 8 tortillas, 400 gramos de carne y 100 gramos de cebolla."
+          },
+          {
+            "title": "Sheet structure",
+            "text": "Place a small lockup above the title. Use 16 px-equivalent body copy and a single Sage Edge rule, with no decorative background pattern."
+          }
+        ],
+        "id": "brand-page-44",
+        "layout": "applications"
+      },
+      {
+        "title": "Project cards",
+        "summary": "Design study: adapt business cards to identify the fictional project and its author. Use a name-led front and a concise task description on the reverse; omit invented contact channels.",
+        "examples": [
+          {
+            "title": "Porciones",
+            "text": "App ficticia de ejemplo de Esteban."
+          },
+          {
+            "title": "Ajusta una receta de tacos",
+            "text": "De 1 a 20 personas, con carne y cebolla en gramos o kilogramos."
+          },
+          {
+            "title": "Card spacing",
+            "text": "Keep the lockup well inside the trim and preserve its safezone. Use white stock with olive text and one green symbol."
+          }
+        ],
+        "id": "brand-page-45",
+        "layout": "applications"
+      },
+      {
+        "title": "Recipe reference card",
+        "summary": "Design study: replace a gift card with a non-monetary recipe reference. Show the base quantities clearly; include no value, redemption code, purchase message or extra app action.",
+        "examples": [
+          {
+            "title": "Tacos · 4 personas",
+            "text": "8 tortillas · 400 gramos de carne · 100 gramos de cebolla"
+          },
+          {
+            "title": "Reference hierarchy",
+            "text": "Place the recipe title above three left-aligned rows. Keep the Porciones lockup smaller than the quantities."
+          }
+        ],
+        "id": "brand-page-46",
+        "layout": "applications"
+      },
+      {
+        "title": "Recipe sheet seal",
+        "summary": "Design study: a small identification sticker may close the recipe sleeve. Use the mark as attribution, never as a certification, freshness guarantee or food-packaging claim.",
+        "examples": [
+          {
+            "title": "Porciones",
+            "text": "Una receta, distintas cantidades."
+          },
+          {
+            "title": "Seal treatment",
+            "text": "Center the green symbol on a Quiet Paper square. Keep the name outside the symbol geometry and omit ornamental rings or approval language."
+          }
+        ],
+        "id": "brand-page-47",
+        "layout": "applications"
+      },
+      {
+        "title": "In-app support",
+        "summary": "Design study: provide recovery within Calculadora, not a new support route or contact form. Put errors beside their subject; use #A12622, descriptive text and a visible recovery action.",
+        "examples": [
+          {
+            "title": "No se pudieron guardar las preferencias",
+            "text": "Puedes seguir calculando. Pulsa Reintentar para volver a guardar."
+          },
+          {
+            "title": "Introduce un número entero, sin decimales",
+            "text": "Corrige Personas o pulsa Restablecer. Se mantiene el último cálculo válido."
+          },
+          {
+            "title": "No se pudieron recuperar las preferencias",
+            "text": "Se muestran 4 personas y gramos. Ajusta un valor o pulsa Restablecer para intentar guardar."
+          }
+        ],
+        "id": "brand-page-48",
+        "layout": "applications"
+      },
+      {
+        "title": "Thank you",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "title": "Porciones",
+            "text": "Ajusta la receta a tu mesa."
+          },
+          {
+            "title": "Source list",
+            "text": "Supplied Porciones plan, palette and identity brief; supplied IBM Plex Sans font resources. No external public-brand sources were provided."
+          },
+          {
+            "title": "Identity credit",
+            "text": "Original two-measure symbol proposed for this project. Preserve its geometry, the name Porciones and the restrained recipe-sheet composition."
+          }
+        ],
+        "id": "brand-page-49",
+        "layout": "cover"
+      }
+    ]
+  }
+}
